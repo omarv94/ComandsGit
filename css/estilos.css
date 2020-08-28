@@ -8,6 +8,7 @@ body{
     font-size: 16px;
 }
 .container{
+    background: cornsilk;
     width :70%;
     padding:0;
     text-align:left;
